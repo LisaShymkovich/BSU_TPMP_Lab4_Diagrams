@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T19:10:09.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" version="21.0.8" etag="GM-tRnfsXHRc_WkM3XRx" type="github"><diagram name="Страница 1" id="kzLP5_mcjEkO9zwOmz4X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-09T19:20:03.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="X0rq_-V96urLFN7o0ws2" version="21.0.8" type="github">
+  <diagram name="Страница 1" id="kzLP5_mcjEkO9zwOmz4X">
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-1" value="Doctor&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="AxGqcT3eC-kyMA_Xu0C_-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="AxGqcT3eC-kyMA_Xu0C_-9" parent="1" source="AxGqcT3eC-kyMA_Xu0C_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="225" as="sourcePoint" />
+            <mxPoint x="350" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-9" value="Patient System" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="AxGqcT3eC-kyMA_Xu0C_-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AxGqcT3eC-kyMA_Xu0C_-12" target="AxGqcT3eC-kyMA_Xu0C_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-12" value="Patient" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AxGqcT3eC-kyMA_Xu0C_-13" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="AxGqcT3eC-kyMA_Xu0C_-12">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
